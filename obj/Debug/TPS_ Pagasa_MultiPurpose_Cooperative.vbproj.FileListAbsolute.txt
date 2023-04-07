@@ -1,0 +1,24 @@
+C:\Users\michelle\OneDrive\Desktop\AbbyFiles\Visual Basic Folders\TPS_ Pagasa_MultiPurpose_Cooperative\bin\Debug\TPS_ Pagasa_MultiPurpose_Cooperative.exe.config
+C:\Users\michelle\OneDrive\Desktop\AbbyFiles\Visual Basic Folders\TPS_ Pagasa_MultiPurpose_Cooperative\bin\Debug\TPS_ Pagasa_MultiPurpose_Cooperative.exe
+C:\Users\michelle\OneDrive\Desktop\AbbyFiles\Visual Basic Folders\TPS_ Pagasa_MultiPurpose_Cooperative\bin\Debug\TPS_ Pagasa_MultiPurpose_Cooperative.pdb
+C:\Users\michelle\OneDrive\Desktop\AbbyFiles\Visual Basic Folders\TPS_ Pagasa_MultiPurpose_Cooperative\bin\Debug\TPS_ Pagasa_MultiPurpose_Cooperative.xml
+C:\Users\michelle\OneDrive\Desktop\AbbyFiles\Visual Basic Folders\TPS_ Pagasa_MultiPurpose_Cooperative\obj\Debug\TPS_ Pagasa_MultiPurpose_Cooperative.vbproj.AssemblyReference.cache
+C:\Users\michelle\OneDrive\Desktop\AbbyFiles\Visual Basic Folders\TPS_ Pagasa_MultiPurpose_Cooperative\obj\Debug\TPS__Pagasa_MultiPurpose_Cooperative.Resources.resources
+C:\Users\michelle\OneDrive\Desktop\AbbyFiles\Visual Basic Folders\TPS_ Pagasa_MultiPurpose_Cooperative\obj\Debug\TPS_ Pagasa_MultiPurpose_Cooperative.vbproj.GenerateResource.cache
+C:\Users\michelle\OneDrive\Desktop\AbbyFiles\Visual Basic Folders\TPS_ Pagasa_MultiPurpose_Cooperative\obj\Debug\TPS_ Pagasa_MultiPurpose_Cooperative.vbproj.CoreCompileInputs.cache
+C:\Users\michelle\OneDrive\Desktop\AbbyFiles\Visual Basic Folders\TPS_ Pagasa_MultiPurpose_Cooperative\obj\Debug\TPS_ Pagasa_MultiPurpose_Cooperative.exe
+C:\Users\michelle\OneDrive\Desktop\AbbyFiles\Visual Basic Folders\TPS_ Pagasa_MultiPurpose_Cooperative\obj\Debug\TPS_ Pagasa_MultiPurpose_Cooperative.xml
+C:\Users\michelle\OneDrive\Desktop\AbbyFiles\Visual Basic Folders\TPS_ Pagasa_MultiPurpose_Cooperative\obj\Debug\TPS_ Pagasa_MultiPurpose_Cooperative.pdb
+C:\Users\michelle\OneDrive\Desktop\AbbyFiles\Visual Basic Folders\TPS_ Pagasa_MultiPurpose_Cooperative\bin\Debug\Bunifu_UI_v1.5.3.dll
+C:\Users\michelle\OneDrive\Desktop\AbbyFiles\Visual Basic Folders\TPS_ Pagasa_MultiPurpose_Cooperative\obj\Debug\TPS_ Pagasa_MultiPurpose_Cooperative.vbproj.CopyComplete
+C:\Users\michelle\OneDrive\Desktop\AbbyFiles\Visual Basic Folders\TPS_ Pagasa_MultiPurpose_Cooperative\obj\Debug\TPS__Pagasa_MultiPurpose_Cooperative.FRMMAINADMIN.resources
+C:\Users\michelle\OneDrive\Desktop\AbbyFiles\Visual Basic Folders\TPS_ Pagasa_MultiPurpose_Cooperative\obj\Debug\TPS__Pagasa_MultiPurpose_Cooperative.USRCTRLDASHBOARD.resources
+C:\Users\michelle\OneDrive\Desktop\AbbyFiles\Visual Basic Folders\TPS_ Pagasa_MultiPurpose_Cooperative\obj\Debug\TPS__Pagasa_MultiPurpose_Cooperative.USRCTRLUSM.resources
+C:\Users\michelle\OneDrive\Desktop\AbbyFiles\Visual Basic Folders\TPS_ Pagasa_MultiPurpose_Cooperative\obj\Debug\TPS__Pagasa_MultiPurpose_Cooperative.USRCTRLMEMBER.resources
+C:\Users\michelle\OneDrive\Desktop\AbbyFiles\Visual Basic Folders\TPS_ Pagasa_MultiPurpose_Cooperative\obj\Debug\TPS__Pagasa_MultiPurpose_Cooperative.USRCTRLAUDIT.resources
+C:\Users\michelle\OneDrive\Desktop\AbbyFiles\Visual Basic Folders\TPS_ Pagasa_MultiPurpose_Cooperative\obj\Debug\TPS__Pagasa_MultiPurpose_Cooperative.USRCTRLREPORTS.resources
+C:\Users\michelle\OneDrive\Desktop\AbbyFiles\Visual Basic Folders\TPS_ Pagasa_MultiPurpose_Cooperative\obj\Debug\TPS__Pagasa_MultiPurpose_Cooperative.USRCTRLSERVCES.resources
+C:\Users\michelle\OneDrive\Desktop\AbbyFiles\Visual Basic Folders\TPS_ Pagasa_MultiPurpose_Cooperative\obj\Debug\TPS__Pagasa_MultiPurpose_Cooperative.USRCTRLABOUT.resources
+C:\Users\michelle\OneDrive\Desktop\AbbyFiles\Visual Basic Folders\TPS_ Pagasa_MultiPurpose_Cooperative\obj\Debug\TPS__Pagasa_MultiPurpose_Cooperative.USRCTRLPRINTABLES.resources
+C:\Users\michelle\OneDrive\Desktop\AbbyFiles\Visual Basic Folders\TPS_ Pagasa_MultiPurpose_Cooperative\obj\Debug\TPS__Pagasa_MultiPurpose_Cooperative.USRCTRLSETTINGS.resources
+C:\Users\michelle\OneDrive\Desktop\AbbyFiles\Visual Basic Folders\TPS_ Pagasa_MultiPurpose_Cooperative\bin\Debug\Guna.UI2.dll
