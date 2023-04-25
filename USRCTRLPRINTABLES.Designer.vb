@@ -26,10 +26,11 @@ Partial Class USRCTRLPRINTABLES
         '
         'USRCTRLPRINTABLES
         '
-        Me.AutoScaleDimensions = New System.Drawing.SizeF(8.0!, 16.0!)
+        Me.AutoScaleDimensions = New System.Drawing.SizeF(6.0!, 13.0!)
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
+        Me.Margin = New System.Windows.Forms.Padding(2, 2, 2, 2)
         Me.Name = "USRCTRLPRINTABLES"
-        Me.Size = New System.Drawing.Size(1358, 818)
+        Me.Size = New System.Drawing.Size(1227, 846)
         Me.ResumeLayout(False)
 
     End Sub

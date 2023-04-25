@@ -59,19 +59,21 @@ Partial Class USRCTRLDASHBOARD
         Me.BunifuCards4.Controls.Add(Me.BunifuCustomLabel8)
         Me.BunifuCards4.Font = New System.Drawing.Font("Century Gothic", 9.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.BunifuCards4.LeftSahddow = False
-        Me.BunifuCards4.Location = New System.Drawing.Point(1000, 22)
+        Me.BunifuCards4.Location = New System.Drawing.Point(906, 18)
+        Me.BunifuCards4.Margin = New System.Windows.Forms.Padding(2, 2, 2, 2)
         Me.BunifuCards4.Name = "BunifuCards4"
         Me.BunifuCards4.RightSahddow = True
         Me.BunifuCards4.ShadowDepth = 20
-        Me.BunifuCards4.Size = New System.Drawing.Size(293, 97)
+        Me.BunifuCards4.Size = New System.Drawing.Size(255, 98)
         Me.BunifuCards4.TabIndex = 7
         '
         'PictureBox5
         '
         Me.PictureBox5.Image = Global.TPS__Pagasa_MultiPurpose_Cooperative.My.Resources.Resources.wheat
-        Me.PictureBox5.Location = New System.Drawing.Point(3, 44)
+        Me.PictureBox5.Location = New System.Drawing.Point(13, 48)
+        Me.PictureBox5.Margin = New System.Windows.Forms.Padding(2, 2, 2, 2)
         Me.PictureBox5.Name = "PictureBox5"
-        Me.PictureBox5.Size = New System.Drawing.Size(57, 28)
+        Me.PictureBox5.Size = New System.Drawing.Size(43, 23)
         Me.PictureBox5.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom
         Me.PictureBox5.TabIndex = 6
         Me.PictureBox5.TabStop = False
@@ -79,9 +81,10 @@ Partial Class USRCTRLDASHBOARD
         'LBLRICELOANKG
         '
         Me.LBLRICELOANKG.Font = New System.Drawing.Font("Century Gothic", 12.0!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.LBLRICELOANKG.Location = New System.Drawing.Point(45, 43)
+        Me.LBLRICELOANKG.Location = New System.Drawing.Point(50, 48)
+        Me.LBLRICELOANKG.Margin = New System.Windows.Forms.Padding(2, 0, 2, 0)
         Me.LBLRICELOANKG.Name = "LBLRICELOANKG"
-        Me.LBLRICELOANKG.Size = New System.Drawing.Size(232, 30)
+        Me.LBLRICELOANKG.Size = New System.Drawing.Size(174, 24)
         Me.LBLRICELOANKG.TabIndex = 5
         Me.LBLRICELOANKG.Text = "0"
         Me.LBLRICELOANKG.TextAlign = System.Drawing.ContentAlignment.MiddleCenter
@@ -90,7 +93,8 @@ Partial Class USRCTRLDASHBOARD
         '
         Me.BunifuCustomLabel8.AutoSize = True
         Me.BunifuCustomLabel8.Font = New System.Drawing.Font("Century Gothic", 10.2!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.BunifuCustomLabel8.Location = New System.Drawing.Point(45, 13)
+        Me.BunifuCustomLabel8.Location = New System.Drawing.Point(34, 13)
+        Me.BunifuCustomLabel8.Margin = New System.Windows.Forms.Padding(2, 0, 2, 0)
         Me.BunifuCustomLabel8.Name = "BunifuCustomLabel8"
         Me.BunifuCustomLabel8.Size = New System.Drawing.Size(173, 19)
         Me.BunifuCustomLabel8.TabIndex = 5
@@ -107,19 +111,21 @@ Partial Class USRCTRLDASHBOARD
         Me.BunifuCards3.Controls.Add(Me.BunifuCustomLabel6)
         Me.BunifuCards3.Font = New System.Drawing.Font("Century Gothic", 9.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.BunifuCards3.LeftSahddow = False
-        Me.BunifuCards3.Location = New System.Drawing.Point(701, 22)
+        Me.BunifuCards3.Location = New System.Drawing.Point(621, 18)
+        Me.BunifuCards3.Margin = New System.Windows.Forms.Padding(2, 2, 2, 2)
         Me.BunifuCards3.Name = "BunifuCards3"
         Me.BunifuCards3.RightSahddow = True
         Me.BunifuCards3.ShadowDepth = 20
-        Me.BunifuCards3.Size = New System.Drawing.Size(265, 97)
+        Me.BunifuCards3.Size = New System.Drawing.Size(234, 98)
         Me.BunifuCards3.TabIndex = 6
         '
         'PictureBox2
         '
         Me.PictureBox2.Image = Global.TPS__Pagasa_MultiPurpose_Cooperative.My.Resources.Resources.philippines_peso_currency_symbol
-        Me.PictureBox2.Location = New System.Drawing.Point(14, 40)
+        Me.PictureBox2.Location = New System.Drawing.Point(20, 48)
+        Me.PictureBox2.Margin = New System.Windows.Forms.Padding(2, 2, 2, 2)
         Me.PictureBox2.Name = "PictureBox2"
-        Me.PictureBox2.Size = New System.Drawing.Size(20, 28)
+        Me.PictureBox2.Size = New System.Drawing.Size(15, 23)
         Me.PictureBox2.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom
         Me.PictureBox2.TabIndex = 4
         Me.PictureBox2.TabStop = False
@@ -127,9 +133,10 @@ Partial Class USRCTRLDASHBOARD
         'LBLCASHLOANS
         '
         Me.LBLCASHLOANS.Font = New System.Drawing.Font("Century Gothic", 12.0!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.LBLCASHLOANS.Location = New System.Drawing.Point(30, 40)
+        Me.LBLCASHLOANS.Location = New System.Drawing.Point(39, 48)
+        Me.LBLCASHLOANS.Margin = New System.Windows.Forms.Padding(2, 0, 2, 0)
         Me.LBLCASHLOANS.Name = "LBLCASHLOANS"
-        Me.LBLCASHLOANS.Size = New System.Drawing.Size(232, 30)
+        Me.LBLCASHLOANS.Size = New System.Drawing.Size(174, 24)
         Me.LBLCASHLOANS.TabIndex = 5
         Me.LBLCASHLOANS.Text = "0"
         Me.LBLCASHLOANS.TextAlign = System.Drawing.ContentAlignment.MiddleCenter
@@ -138,7 +145,8 @@ Partial Class USRCTRLDASHBOARD
         '
         Me.BunifuCustomLabel6.AutoSize = True
         Me.BunifuCustomLabel6.Font = New System.Drawing.Font("Century Gothic", 10.2!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.BunifuCustomLabel6.Location = New System.Drawing.Point(52, 13)
+        Me.BunifuCustomLabel6.Location = New System.Drawing.Point(39, 12)
+        Me.BunifuCustomLabel6.Margin = New System.Windows.Forms.Padding(2, 0, 2, 0)
         Me.BunifuCustomLabel6.Name = "BunifuCustomLabel6"
         Me.BunifuCustomLabel6.Size = New System.Drawing.Size(137, 19)
         Me.BunifuCustomLabel6.TabIndex = 5
@@ -155,19 +163,21 @@ Partial Class USRCTRLDASHBOARD
         Me.BunifuCards2.Controls.Add(Me.BunifuCustomLabel4)
         Me.BunifuCards2.Font = New System.Drawing.Font("Century Gothic", 9.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.BunifuCards2.LeftSahddow = False
-        Me.BunifuCards2.Location = New System.Drawing.Point(401, 22)
+        Me.BunifuCards2.Location = New System.Drawing.Point(340, 18)
+        Me.BunifuCards2.Margin = New System.Windows.Forms.Padding(2, 2, 2, 2)
         Me.BunifuCards2.Name = "BunifuCards2"
         Me.BunifuCards2.RightSahddow = True
         Me.BunifuCards2.ShadowDepth = 20
-        Me.BunifuCards2.Size = New System.Drawing.Size(265, 97)
+        Me.BunifuCards2.Size = New System.Drawing.Size(234, 98)
         Me.BunifuCards2.TabIndex = 5
         '
         'PictureBox3
         '
         Me.PictureBox3.Image = Global.TPS__Pagasa_MultiPurpose_Cooperative.My.Resources.Resources.loan
-        Me.PictureBox3.Location = New System.Drawing.Point(0, 46)
+        Me.PictureBox3.Location = New System.Drawing.Point(15, 48)
+        Me.PictureBox3.Margin = New System.Windows.Forms.Padding(2, 2, 2, 2)
         Me.PictureBox3.Name = "PictureBox3"
-        Me.PictureBox3.Size = New System.Drawing.Size(57, 28)
+        Me.PictureBox3.Size = New System.Drawing.Size(43, 23)
         Me.PictureBox3.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom
         Me.PictureBox3.TabIndex = 5
         Me.PictureBox3.TabStop = False
@@ -175,9 +185,10 @@ Partial Class USRCTRLDASHBOARD
         'LBLLOANS
         '
         Me.LBLLOANS.Font = New System.Drawing.Font("Century Gothic", 12.0!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.LBLLOANS.Location = New System.Drawing.Point(30, 44)
+        Me.LBLLOANS.Location = New System.Drawing.Point(31, 46)
+        Me.LBLLOANS.Margin = New System.Windows.Forms.Padding(2, 0, 2, 0)
         Me.LBLLOANS.Name = "LBLLOANS"
-        Me.LBLLOANS.Size = New System.Drawing.Size(232, 30)
+        Me.LBLLOANS.Size = New System.Drawing.Size(174, 24)
         Me.LBLLOANS.TabIndex = 5
         Me.LBLLOANS.Text = "0"
         Me.LBLLOANS.TextAlign = System.Drawing.ContentAlignment.MiddleCenter
@@ -186,7 +197,8 @@ Partial Class USRCTRLDASHBOARD
         '
         Me.BunifuCustomLabel4.AutoSize = True
         Me.BunifuCustomLabel4.Font = New System.Drawing.Font("Century Gothic", 10.2!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.BunifuCustomLabel4.Location = New System.Drawing.Point(71, 14)
+        Me.BunifuCustomLabel4.Location = New System.Drawing.Point(53, 13)
+        Me.BunifuCustomLabel4.Margin = New System.Windows.Forms.Padding(2, 0, 2, 0)
         Me.BunifuCustomLabel4.Name = "BunifuCustomLabel4"
         Me.BunifuCustomLabel4.Size = New System.Drawing.Size(121, 19)
         Me.BunifuCustomLabel4.TabIndex = 5
@@ -203,19 +215,21 @@ Partial Class USRCTRLDASHBOARD
         Me.BunifuCards1.Controls.Add(Me.BunifuCustomLabel1)
         Me.BunifuCards1.Font = New System.Drawing.Font("Century Gothic", 9.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.BunifuCards1.LeftSahddow = False
-        Me.BunifuCards1.Location = New System.Drawing.Point(58, 22)
+        Me.BunifuCards1.Location = New System.Drawing.Point(49, 18)
+        Me.BunifuCards1.Margin = New System.Windows.Forms.Padding(2, 2, 2, 2)
         Me.BunifuCards1.Name = "BunifuCards1"
         Me.BunifuCards1.RightSahddow = True
         Me.BunifuCards1.ShadowDepth = 20
-        Me.BunifuCards1.Size = New System.Drawing.Size(276, 97)
+        Me.BunifuCards1.Size = New System.Drawing.Size(242, 98)
         Me.BunifuCards1.TabIndex = 4
         '
         'PictureBox4
         '
         Me.PictureBox4.Image = Global.TPS__Pagasa_MultiPurpose_Cooperative.My.Resources.Resources.group
-        Me.PictureBox4.Location = New System.Drawing.Point(3, 42)
+        Me.PictureBox4.Location = New System.Drawing.Point(12, 47)
+        Me.PictureBox4.Margin = New System.Windows.Forms.Padding(2, 2, 2, 2)
         Me.PictureBox4.Name = "PictureBox4"
-        Me.PictureBox4.Size = New System.Drawing.Size(57, 28)
+        Me.PictureBox4.Size = New System.Drawing.Size(43, 23)
         Me.PictureBox4.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom
         Me.PictureBox4.TabIndex = 6
         Me.PictureBox4.TabStop = False
@@ -223,9 +237,10 @@ Partial Class USRCTRLDASHBOARD
         'LBLMEMBERS
         '
         Me.LBLMEMBERS.Font = New System.Drawing.Font("Century Gothic", 12.0!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.LBLMEMBERS.Location = New System.Drawing.Point(38, 42)
+        Me.LBLMEMBERS.Location = New System.Drawing.Point(42, 47)
+        Me.LBLMEMBERS.Margin = New System.Windows.Forms.Padding(2, 0, 2, 0)
         Me.LBLMEMBERS.Name = "LBLMEMBERS"
-        Me.LBLMEMBERS.Size = New System.Drawing.Size(235, 30)
+        Me.LBLMEMBERS.Size = New System.Drawing.Size(176, 24)
         Me.LBLMEMBERS.TabIndex = 5
         Me.LBLMEMBERS.Text = "0"
         Me.LBLMEMBERS.TextAlign = System.Drawing.ContentAlignment.MiddleCenter
@@ -234,7 +249,8 @@ Partial Class USRCTRLDASHBOARD
         '
         Me.BunifuCustomLabel1.AutoSize = True
         Me.BunifuCustomLabel1.Font = New System.Drawing.Font("Century Gothic", 10.8!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.BunifuCustomLabel1.Location = New System.Drawing.Point(51, 13)
+        Me.BunifuCustomLabel1.Location = New System.Drawing.Point(38, 13)
+        Me.BunifuCustomLabel1.Margin = New System.Windows.Forms.Padding(2, 0, 2, 0)
         Me.BunifuCustomLabel1.Name = "BunifuCustomLabel1"
         Me.BunifuCustomLabel1.Size = New System.Drawing.Size(160, 20)
         Me.BunifuCustomLabel1.TabIndex = 5
@@ -242,14 +258,15 @@ Partial Class USRCTRLDASHBOARD
         '
         'USRCTRLDASHBOARD
         '
-        Me.AutoScaleDimensions = New System.Drawing.SizeF(8.0!, 16.0!)
+        Me.AutoScaleDimensions = New System.Drawing.SizeF(6.0!, 13.0!)
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
         Me.Controls.Add(Me.BunifuCards4)
         Me.Controls.Add(Me.BunifuCards3)
         Me.Controls.Add(Me.BunifuCards2)
         Me.Controls.Add(Me.BunifuCards1)
+        Me.Margin = New System.Windows.Forms.Padding(2, 2, 2, 2)
         Me.Name = "USRCTRLDASHBOARD"
-        Me.Size = New System.Drawing.Size(1358, 818)
+        Me.Size = New System.Drawing.Size(1227, 846)
         Me.BunifuCards4.ResumeLayout(False)
         Me.BunifuCards4.PerformLayout()
         CType(Me.PictureBox5, System.ComponentModel.ISupportInitialize).EndInit()

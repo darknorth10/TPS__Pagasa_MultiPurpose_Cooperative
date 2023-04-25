@@ -50,10 +50,9 @@ Partial Class FRMMAINADMIN
         Me.BTNEXIT.FlatStyle = System.Windows.Forms.FlatStyle.Flat
         Me.BTNEXIT.Font = New System.Drawing.Font("Microsoft Sans Serif", 9.0!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.BTNEXIT.ForeColor = System.Drawing.SystemColors.Control
-        Me.BTNEXIT.Location = New System.Drawing.Point(1642, -2)
-        Me.BTNEXIT.Margin = New System.Windows.Forms.Padding(4)
+        Me.BTNEXIT.Location = New System.Drawing.Point(1475, -1)
         Me.BTNEXIT.Name = "BTNEXIT"
-        Me.BTNEXIT.Size = New System.Drawing.Size(63, 44)
+        Me.BTNEXIT.Size = New System.Drawing.Size(47, 36)
         Me.BTNEXIT.TabIndex = 1
         Me.BTNEXIT.Text = "X"
         Me.BTNEXIT.UseVisualStyleBackColor = False
@@ -72,8 +71,9 @@ Partial Class FRMMAINADMIN
         Me.Panel1.Controls.Add(Me.btndashboard)
         Me.Panel1.Controls.Add(Me.PictureBox1)
         Me.Panel1.Location = New System.Drawing.Point(0, -2)
+        Me.Panel1.Margin = New System.Windows.Forms.Padding(2)
         Me.Panel1.Name = "Panel1"
-        Me.Panel1.Size = New System.Drawing.Size(290, 913)
+        Me.Panel1.Size = New System.Drawing.Size(246, 941)
         Me.Panel1.TabIndex = 2
         '
         'btnprintables
@@ -97,20 +97,19 @@ Partial Class FRMMAINADMIN
         Me.btnprintables.IconVisible = True
         Me.btnprintables.IconZoom = 90.0R
         Me.btnprintables.IsTab = False
-        Me.btnprintables.Location = New System.Drawing.Point(0, 733)
-        Me.btnprintables.Margin = New System.Windows.Forms.Padding(4, 4, 4, 4)
+        Me.btnprintables.Location = New System.Drawing.Point(0, 643)
         Me.btnprintables.Name = "btnprintables"
         Me.btnprintables.Normalcolor = System.Drawing.Color.Transparent
         Me.btnprintables.OnHovercolor = System.Drawing.Color.White
         Me.btnprintables.OnHoverTextColor = System.Drawing.Color.Black
         Me.btnprintables.RightToLeft = System.Windows.Forms.RightToLeft.No
         Me.btnprintables.selected = False
-        Me.btnprintables.Size = New System.Drawing.Size(290, 59)
+        Me.btnprintables.Size = New System.Drawing.Size(246, 48)
         Me.btnprintables.TabIndex = 11
         Me.btnprintables.Text = "Printables"
         Me.btnprintables.TextAlign = System.Drawing.ContentAlignment.MiddleCenter
         Me.btnprintables.Textcolor = System.Drawing.Color.White
-        Me.btnprintables.TextFont = New System.Drawing.Font("Century Gothic", 10.2!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.btnprintables.TextFont = New System.Drawing.Font("Century Gothic", 12.75!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         '
         'btnabout
         '
@@ -133,20 +132,19 @@ Partial Class FRMMAINADMIN
         Me.btnabout.IconVisible = True
         Me.btnabout.IconZoom = 90.0R
         Me.btnabout.IsTab = False
-        Me.btnabout.Location = New System.Drawing.Point(0, 666)
-        Me.btnabout.Margin = New System.Windows.Forms.Padding(4, 4, 4, 4)
+        Me.btnabout.Location = New System.Drawing.Point(3, 589)
         Me.btnabout.Name = "btnabout"
         Me.btnabout.Normalcolor = System.Drawing.Color.Transparent
         Me.btnabout.OnHovercolor = System.Drawing.Color.White
         Me.btnabout.OnHoverTextColor = System.Drawing.Color.Black
         Me.btnabout.RightToLeft = System.Windows.Forms.RightToLeft.No
         Me.btnabout.selected = False
-        Me.btnabout.Size = New System.Drawing.Size(290, 59)
+        Me.btnabout.Size = New System.Drawing.Size(243, 48)
         Me.btnabout.TabIndex = 10
         Me.btnabout.Text = "About Us"
         Me.btnabout.TextAlign = System.Drawing.ContentAlignment.MiddleCenter
         Me.btnabout.Textcolor = System.Drawing.Color.White
-        Me.btnabout.TextFont = New System.Drawing.Font("Century Gothic", 10.2!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.btnabout.TextFont = New System.Drawing.Font("Century Gothic", 12.75!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         '
         'btnsettings
         '
@@ -169,20 +167,19 @@ Partial Class FRMMAINADMIN
         Me.btnsettings.IconVisible = True
         Me.btnsettings.IconZoom = 90.0R
         Me.btnsettings.IsTab = False
-        Me.btnsettings.Location = New System.Drawing.Point(4, 599)
-        Me.btnsettings.Margin = New System.Windows.Forms.Padding(4, 4, 4, 4)
+        Me.btnsettings.Location = New System.Drawing.Point(3, 535)
         Me.btnsettings.Name = "btnsettings"
         Me.btnsettings.Normalcolor = System.Drawing.Color.Transparent
         Me.btnsettings.OnHovercolor = System.Drawing.Color.White
         Me.btnsettings.OnHoverTextColor = System.Drawing.Color.Black
         Me.btnsettings.RightToLeft = System.Windows.Forms.RightToLeft.No
         Me.btnsettings.selected = False
-        Me.btnsettings.Size = New System.Drawing.Size(290, 59)
+        Me.btnsettings.Size = New System.Drawing.Size(243, 48)
         Me.btnsettings.TabIndex = 9
         Me.btnsettings.Text = "Settings"
         Me.btnsettings.TextAlign = System.Drawing.ContentAlignment.MiddleCenter
         Me.btnsettings.Textcolor = System.Drawing.Color.White
-        Me.btnsettings.TextFont = New System.Drawing.Font("Century Gothic", 10.2!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.btnsettings.TextFont = New System.Drawing.Font("Century Gothic", 12.75!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         '
         'btnaudit
         '
@@ -205,20 +202,19 @@ Partial Class FRMMAINADMIN
         Me.btnaudit.IconVisible = True
         Me.btnaudit.IconZoom = 90.0R
         Me.btnaudit.IsTab = False
-        Me.btnaudit.Location = New System.Drawing.Point(0, 532)
-        Me.btnaudit.Margin = New System.Windows.Forms.Padding(4, 4, 4, 4)
+        Me.btnaudit.Location = New System.Drawing.Point(3, 481)
         Me.btnaudit.Name = "btnaudit"
         Me.btnaudit.Normalcolor = System.Drawing.Color.Transparent
         Me.btnaudit.OnHovercolor = System.Drawing.Color.White
         Me.btnaudit.OnHoverTextColor = System.Drawing.Color.Black
         Me.btnaudit.RightToLeft = System.Windows.Forms.RightToLeft.No
         Me.btnaudit.selected = False
-        Me.btnaudit.Size = New System.Drawing.Size(290, 59)
+        Me.btnaudit.Size = New System.Drawing.Size(243, 48)
         Me.btnaudit.TabIndex = 8
         Me.btnaudit.Text = "Audit Trail"
         Me.btnaudit.TextAlign = System.Drawing.ContentAlignment.MiddleCenter
         Me.btnaudit.Textcolor = System.Drawing.Color.White
-        Me.btnaudit.TextFont = New System.Drawing.Font("Century Gothic", 10.2!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.btnaudit.TextFont = New System.Drawing.Font("Century Gothic", 12.75!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         '
         'btnreports
         '
@@ -241,20 +237,19 @@ Partial Class FRMMAINADMIN
         Me.btnreports.IconVisible = True
         Me.btnreports.IconZoom = 90.0R
         Me.btnreports.IsTab = False
-        Me.btnreports.Location = New System.Drawing.Point(0, 465)
-        Me.btnreports.Margin = New System.Windows.Forms.Padding(4, 4, 4, 4)
+        Me.btnreports.Location = New System.Drawing.Point(3, 427)
         Me.btnreports.Name = "btnreports"
         Me.btnreports.Normalcolor = System.Drawing.Color.Transparent
         Me.btnreports.OnHovercolor = System.Drawing.Color.White
         Me.btnreports.OnHoverTextColor = System.Drawing.Color.Black
         Me.btnreports.RightToLeft = System.Windows.Forms.RightToLeft.No
         Me.btnreports.selected = False
-        Me.btnreports.Size = New System.Drawing.Size(290, 59)
+        Me.btnreports.Size = New System.Drawing.Size(243, 48)
         Me.btnreports.TabIndex = 7
         Me.btnreports.Text = "Reports"
         Me.btnreports.TextAlign = System.Drawing.ContentAlignment.MiddleCenter
         Me.btnreports.Textcolor = System.Drawing.Color.White
-        Me.btnreports.TextFont = New System.Drawing.Font("Century Gothic", 10.2!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.btnreports.TextFont = New System.Drawing.Font("Century Gothic", 12.75!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         '
         'btnservices
         '
@@ -277,20 +272,19 @@ Partial Class FRMMAINADMIN
         Me.btnservices.IconVisible = True
         Me.btnservices.IconZoom = 90.0R
         Me.btnservices.IsTab = False
-        Me.btnservices.Location = New System.Drawing.Point(0, 398)
-        Me.btnservices.Margin = New System.Windows.Forms.Padding(4, 4, 4, 4)
+        Me.btnservices.Location = New System.Drawing.Point(3, 373)
         Me.btnservices.Name = "btnservices"
         Me.btnservices.Normalcolor = System.Drawing.Color.Transparent
         Me.btnservices.OnHovercolor = System.Drawing.Color.White
         Me.btnservices.OnHoverTextColor = System.Drawing.Color.Black
         Me.btnservices.RightToLeft = System.Windows.Forms.RightToLeft.No
         Me.btnservices.selected = False
-        Me.btnservices.Size = New System.Drawing.Size(290, 59)
+        Me.btnservices.Size = New System.Drawing.Size(243, 48)
         Me.btnservices.TabIndex = 6
         Me.btnservices.Text = "Services"
         Me.btnservices.TextAlign = System.Drawing.ContentAlignment.MiddleCenter
         Me.btnservices.Textcolor = System.Drawing.Color.White
-        Me.btnservices.TextFont = New System.Drawing.Font("Century Gothic", 10.2!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.btnservices.TextFont = New System.Drawing.Font("Century Gothic", 12.75!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         '
         'btnmembership
         '
@@ -313,20 +307,19 @@ Partial Class FRMMAINADMIN
         Me.btnmembership.IconVisible = True
         Me.btnmembership.IconZoom = 90.0R
         Me.btnmembership.IsTab = False
-        Me.btnmembership.Location = New System.Drawing.Point(0, 331)
-        Me.btnmembership.Margin = New System.Windows.Forms.Padding(4, 4, 4, 4)
+        Me.btnmembership.Location = New System.Drawing.Point(3, 319)
         Me.btnmembership.Name = "btnmembership"
         Me.btnmembership.Normalcolor = System.Drawing.Color.Transparent
         Me.btnmembership.OnHovercolor = System.Drawing.Color.White
         Me.btnmembership.OnHoverTextColor = System.Drawing.Color.Black
         Me.btnmembership.RightToLeft = System.Windows.Forms.RightToLeft.No
         Me.btnmembership.selected = False
-        Me.btnmembership.Size = New System.Drawing.Size(290, 59)
+        Me.btnmembership.Size = New System.Drawing.Size(243, 48)
         Me.btnmembership.TabIndex = 5
         Me.btnmembership.Text = "Membership"
         Me.btnmembership.TextAlign = System.Drawing.ContentAlignment.MiddleCenter
         Me.btnmembership.Textcolor = System.Drawing.Color.White
-        Me.btnmembership.TextFont = New System.Drawing.Font("Century Gothic", 10.2!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.btnmembership.TextFont = New System.Drawing.Font("Century Gothic", 12.75!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         '
         'btnum
         '
@@ -349,20 +342,19 @@ Partial Class FRMMAINADMIN
         Me.btnum.IconVisible = True
         Me.btnum.IconZoom = 90.0R
         Me.btnum.IsTab = False
-        Me.btnum.Location = New System.Drawing.Point(0, 264)
-        Me.btnum.Margin = New System.Windows.Forms.Padding(4, 4, 4, 4)
+        Me.btnum.Location = New System.Drawing.Point(3, 265)
         Me.btnum.Name = "btnum"
         Me.btnum.Normalcolor = System.Drawing.Color.Transparent
         Me.btnum.OnHovercolor = System.Drawing.Color.White
         Me.btnum.OnHoverTextColor = System.Drawing.Color.Black
         Me.btnum.RightToLeft = System.Windows.Forms.RightToLeft.No
         Me.btnum.selected = False
-        Me.btnum.Size = New System.Drawing.Size(290, 59)
+        Me.btnum.Size = New System.Drawing.Size(243, 48)
         Me.btnum.TabIndex = 4
         Me.btnum.Text = "User Management"
         Me.btnum.TextAlign = System.Drawing.ContentAlignment.MiddleCenter
         Me.btnum.Textcolor = System.Drawing.Color.White
-        Me.btnum.TextFont = New System.Drawing.Font("Century Gothic", 10.2!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.btnum.TextFont = New System.Drawing.Font("Century Gothic", 12.75!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         '
         'btndashboard
         '
@@ -385,46 +377,48 @@ Partial Class FRMMAINADMIN
         Me.btndashboard.IconVisible = True
         Me.btndashboard.IconZoom = 90.0R
         Me.btndashboard.IsTab = False
-        Me.btndashboard.Location = New System.Drawing.Point(0, 197)
-        Me.btndashboard.Margin = New System.Windows.Forms.Padding(4, 4, 4, 4)
+        Me.btndashboard.Location = New System.Drawing.Point(3, 211)
         Me.btndashboard.Name = "btndashboard"
         Me.btndashboard.Normalcolor = System.Drawing.Color.Transparent
         Me.btndashboard.OnHovercolor = System.Drawing.Color.White
         Me.btndashboard.OnHoverTextColor = System.Drawing.Color.Black
         Me.btndashboard.RightToLeft = System.Windows.Forms.RightToLeft.No
         Me.btndashboard.selected = False
-        Me.btndashboard.Size = New System.Drawing.Size(290, 59)
+        Me.btndashboard.Size = New System.Drawing.Size(243, 48)
         Me.btndashboard.TabIndex = 3
         Me.btndashboard.Text = "Dashboard"
         Me.btndashboard.TextAlign = System.Drawing.ContentAlignment.MiddleCenter
         Me.btndashboard.Textcolor = System.Drawing.Color.White
-        Me.btndashboard.TextFont = New System.Drawing.Font("Century Gothic", 10.2!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.btndashboard.TextFont = New System.Drawing.Font("Century Gothic", 12.75!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         '
         'PictureBox1
         '
         Me.PictureBox1.Image = Global.TPS__Pagasa_MultiPurpose_Cooperative.My.Resources.Resources.FB_IMG_1673280633955_removebg_preview
-        Me.PictureBox1.Location = New System.Drawing.Point(66, 33)
+        Me.PictureBox1.Location = New System.Drawing.Point(63, 27)
+        Me.PictureBox1.Margin = New System.Windows.Forms.Padding(2)
         Me.PictureBox1.Name = "PictureBox1"
-        Me.PictureBox1.Size = New System.Drawing.Size(161, 127)
+        Me.PictureBox1.Size = New System.Drawing.Size(121, 103)
         Me.PictureBox1.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom
         Me.PictureBox1.TabIndex = 0
         Me.PictureBox1.TabStop = False
         '
         'pnlmain
         '
-        Me.pnlmain.Location = New System.Drawing.Point(310, 60)
+        Me.pnlmain.Location = New System.Drawing.Point(273, 56)
+        Me.pnlmain.Margin = New System.Windows.Forms.Padding(2)
         Me.pnlmain.Name = "pnlmain"
-        Me.pnlmain.Size = New System.Drawing.Size(1358, 818)
+        Me.pnlmain.Size = New System.Drawing.Size(1227, 846)
         Me.pnlmain.TabIndex = 3
         '
         'lblpagename
         '
         Me.lblpagename.AutoSize = True
-        Me.lblpagename.Font = New System.Drawing.Font("Century Gothic", 18.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.lblpagename.Font = New System.Drawing.Font("Century Gothic", 20.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.lblpagename.ForeColor = System.Drawing.Color.RoyalBlue
-        Me.lblpagename.Location = New System.Drawing.Point(310, 12)
+        Me.lblpagename.Location = New System.Drawing.Point(268, 11)
+        Me.lblpagename.Margin = New System.Windows.Forms.Padding(2, 0, 2, 0)
         Me.lblpagename.Name = "lblpagename"
-        Me.lblpagename.Size = New System.Drawing.Size(143, 30)
+        Me.lblpagename.Size = New System.Drawing.Size(160, 33)
         Me.lblpagename.TabIndex = 4
         Me.lblpagename.Text = "Dashboard"
         '
@@ -433,7 +427,8 @@ Partial Class FRMMAINADMIN
         Me.BunifuCustomLabel1.AutoSize = True
         Me.BunifuCustomLabel1.Font = New System.Drawing.Font("Century Gothic", 11.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.BunifuCustomLabel1.ForeColor = System.Drawing.Color.Black
-        Me.BunifuCustomLabel1.Location = New System.Drawing.Point(1146, 17)
+        Me.BunifuCustomLabel1.Location = New System.Drawing.Point(1115, 10)
+        Me.BunifuCustomLabel1.Margin = New System.Windows.Forms.Padding(2, 0, 2, 0)
         Me.BunifuCustomLabel1.Name = "BunifuCustomLabel1"
         Me.BunifuCustomLabel1.Size = New System.Drawing.Size(108, 20)
         Me.BunifuCustomLabel1.TabIndex = 5
@@ -444,7 +439,8 @@ Partial Class FRMMAINADMIN
         Me.lbluser.AutoSize = True
         Me.lbluser.Font = New System.Drawing.Font("Century Gothic", 11.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.lbluser.ForeColor = System.Drawing.Color.MidnightBlue
-        Me.lbluser.Location = New System.Drawing.Point(1281, 17)
+        Me.lbluser.Location = New System.Drawing.Point(1228, 10)
+        Me.lbluser.Margin = New System.Windows.Forms.Padding(2, 0, 2, 0)
         Me.lbluser.Name = "lbluser"
         Me.lbluser.Size = New System.Drawing.Size(55, 20)
         Me.lbluser.TabIndex = 6
@@ -452,19 +448,20 @@ Partial Class FRMMAINADMIN
         '
         'btnlogout
         '
-        Me.btnlogout.Location = New System.Drawing.Point(1492, 12)
+        Me.btnlogout.Location = New System.Drawing.Point(1370, 7)
+        Me.btnlogout.Margin = New System.Windows.Forms.Padding(2)
         Me.btnlogout.Name = "btnlogout"
-        Me.btnlogout.Size = New System.Drawing.Size(94, 32)
+        Me.btnlogout.Size = New System.Drawing.Size(70, 26)
         Me.btnlogout.TabIndex = 7
         Me.btnlogout.Text = "Logout"
         Me.btnlogout.UseVisualStyleBackColor = True
         '
         'FRMMAINADMIN
         '
-        Me.AutoScaleDimensions = New System.Drawing.SizeF(8.0!, 16.0!)
+        Me.AutoScaleDimensions = New System.Drawing.SizeF(6.0!, 13.0!)
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
         Me.BackColor = System.Drawing.Color.FromArgb(CType(CType(238, Byte), Integer), CType(CType(238, Byte), Integer), CType(CType(238, Byte), Integer))
-        Me.ClientSize = New System.Drawing.Size(1700, 900)
+        Me.ClientSize = New System.Drawing.Size(1521, 929)
         Me.Controls.Add(Me.btnlogout)
         Me.Controls.Add(Me.lbluser)
         Me.Controls.Add(Me.BunifuCustomLabel1)
@@ -473,11 +470,11 @@ Partial Class FRMMAINADMIN
         Me.Controls.Add(Me.Panel1)
         Me.Controls.Add(Me.BTNEXIT)
         Me.FormBorderStyle = System.Windows.Forms.FormBorderStyle.None
-        Me.Margin = New System.Windows.Forms.Padding(3, 2, 3, 2)
+        Me.Margin = New System.Windows.Forms.Padding(2)
         Me.MaximizeBox = False
         Me.MinimizeBox = False
         Me.Name = "FRMMAINADMIN"
-        Me.Padding = New System.Windows.Forms.Padding(15, 0, 0, 0)
+        Me.Padding = New System.Windows.Forms.Padding(11, 0, 0, 0)
         Me.RightToLeft = System.Windows.Forms.RightToLeft.No
         Me.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen
         Me.Panel1.ResumeLayout(False)
